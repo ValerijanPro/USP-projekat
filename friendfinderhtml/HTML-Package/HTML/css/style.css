@@ -633,7 +633,7 @@ textarea{
   ==================================================*/
 
 .img-divider{
-  background: url("http://placehold.it/1920x460") no-repeat;
+  background: url("https://i.pinimg.com/originals/5f/3d/7a/5f3d7a351532269f097f9b084b224f26.jpg") no-repeat;
   background-size: cover;
   text-align: center;
   min-height: 460px;
@@ -744,7 +744,7 @@ textarea{
   ==================================================*/  
 
 #lp-register{
-  background: linear-gradient(to right, rgba(0,0,0, 0.7) , rgba(0,0,0, 0.7)), url("http://placehold.it/1920x1280") fixed no-repeat;
+  background: linear-gradient(to right, rgba(0,0,0, 0.7) , rgba(0,0,0, 0.7)), /*url("http://placehold.it/1920x1280")*/ fixed no-repeat;
   background-size: cover;
   background-position: center;
   position: absolute;
@@ -2363,3 +2363,7 @@ ul.contact li i{
   z-index: 9999999;
 }
 
+
+.centered {
+  text-align: center;
+}
