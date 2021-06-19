@@ -422,7 +422,7 @@ textarea{
   ==================================================*/
 
 #banner{
-	background: url("https://s-i.huffpost.com/gen/2212248/images/o-ASDF-facebook.jpg") fixed no-repeat;
+	background: url("https://www.ageas.co.uk/globalassets/solved/idling-could-be-banned.jpg") fixed no-repeat;
  
   background-position: center;
 	background-size: cover;
@@ -1461,7 +1461,7 @@ ul.online-users li span.online-dot{
   ==================================================*/
 
 .timeline-cover{
-  background: url("http://placehold.it/1030x360") no-repeat;
+  background: url("https://i.ytimg.com/vi/KjESWiAWz30/maxresdefault.jpg") no-repeat;
   background-position: center;
   background-size: cover;
   min-height: 360px;
@@ -1907,7 +1907,7 @@ input:checked + .slider:before{
 .contact-us{
   background: #fff;
   padding: 40px;
-  margin-top: -140px;
+  margin-top: 0px;
   border-radius: 4px;
 }
 
